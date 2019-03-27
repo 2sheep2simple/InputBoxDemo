@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="InputBoxDemo:war exploded">
+    <output-path>$PROJECT_DIR$/../InputBoxDemo/out/artifacts/InputBoxDemo_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="InputBoxDemo/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="InputBoxDemo" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
